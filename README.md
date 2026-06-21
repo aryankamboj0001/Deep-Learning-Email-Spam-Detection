@@ -194,7 +194,7 @@ B.Tech Artificial Intelligence & Data Science
 
 GitHub: https://github.com/aryankamboj0001
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/aryankamboj0001
 
 ---
 
