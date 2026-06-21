@@ -125,17 +125,20 @@ The following preprocessing techniques were applied:
 
 ### Home Page
 
-<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/f69a1ff2-71b4-4345-a94b-d99261f46d3b" />
+<img width="1920" height="907" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/4ff708d9-35eb-4347-abd6-26bc0a906e70" />
+
 
 
 ### Spam Prediction
 
-<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/98314249-7d1f-43a6-92a7-e47daa5bb761" />
+<img width="1920" height="897" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/88173174-406f-4068-b747-866c1937296f" />
+
 
 
 ### Ham Prediction
 
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/4f564c56-9a9a-49ef-a983-71d9739a6b49" />
+<img width="1920" height="893" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/5f118f18-8911-46eb-96c0-c231efdf781c" />
+
 
 
 ---
