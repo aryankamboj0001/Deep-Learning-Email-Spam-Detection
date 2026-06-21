@@ -125,15 +125,18 @@ The following preprocessing techniques were applied:
 
 ### Home Page
 
-> Add your screenshot here
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/f69a1ff2-71b4-4345-a94b-d99261f46d3b" />
+
 
 ### Spam Prediction
 
-> Add your screenshot here
+<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/98314249-7d1f-43a6-92a7-e47daa5bb761" />
+
 
 ### Ham Prediction
 
-> Add your screenshot here
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/4f564c56-9a9a-49ef-a983-71d9739a6b49" />
+
 
 ---
 
